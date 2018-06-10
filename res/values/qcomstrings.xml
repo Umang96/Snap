@@ -284,7 +284,7 @@
     <string name="pref_camera_video_tnr_default" translatable="false">on</string>
 
     <!-- Default face  detection setting. -->
-    <string name="pref_camera_facedetection_default" translatable="false">off</string>
+    <string name="pref_camera_facedetection_default" translatable="false">on</string>
 
     <!-- Settings screen, Select Face Detection -->
     <string name="pref_camera_facedetection_title">Face detection</string>
@@ -313,7 +313,7 @@
     <string name="pref_camera_redeyereduction_entry_enable">Enable</string>
     <string name="pref_camera_redeyereduction_entry_disable">Disable</string>
 
-    <string name="pref_camera_selfiemirror_default" translatable="false">disable</string>
+    <string name="pref_camera_selfiemirror_default" translatable="false">enable</string>
     <string name="pref_camera_selfiemirror_title">Selfie mirror</string>
     <string name="pref_camera_selfiemirror_entry_enable">Enable</string>
     <string name="pref_camera_selfiemirror_entry_disable">Disable</string>
@@ -431,7 +431,7 @@
 
     <!-- Denoise Settings screen, setting title text -->
     <string name="pref_camera_denoise_title">Denoise</string>
-    <string name="pref_camera_denoise_default" translatable="false">denoise-on</string>
+    <string name="pref_camera_denoise_default" translatable="false">denoise-off</string>
 
     <!-- Denoise Settings screen, Record location dialog choices -->
     <string name="pref_camera_denoise_entry_off">Off</string>
